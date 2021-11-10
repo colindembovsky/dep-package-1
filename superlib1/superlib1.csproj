@@ -8,7 +8,7 @@
     <PackageId>superlib1</PackageId>
     <Authors>Colin Dembovsky</Authors>
     <Company>colinsalmcorner</Company>
-    <RepositoryUrl>https://github.com/colindembovsky/superlib1</RepositoryUrl>
+    <RepositoryUrl>https://github.com/colindembovsky/dep-package-1</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
