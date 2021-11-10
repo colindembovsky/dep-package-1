@@ -1,4 +1,4 @@
-name: Package NuGet Lib
+name: 📦 NuGet Lib
 
 on:
   push:
